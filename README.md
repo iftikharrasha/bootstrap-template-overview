@@ -2,4 +2,4 @@
 
 ![GitHub Logo](/img/layout.png)
 
-# Live Preview: http://iftikharrasha.me/bootstrap-template-overview/
+Live Preview: http://iftikharrasha.me/bootstrap-template-overview/
